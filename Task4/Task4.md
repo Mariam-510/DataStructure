@@ -1,0 +1,2 @@
+Insertion sort uses linear search vs Insertion sort uses binary search. 
+The algorithm works the same, except that instead comparing and shifting item by item, it will compare quickly using binary search but it will still shift one by one till the right place without comparison.

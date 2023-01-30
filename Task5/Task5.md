@@ -1,0 +1,1 @@
+testing two sorting algorithms (Selection and Quick sort) and measuring the performance of Quick sort and Selection sort in cases of random data and reverse ordered data.
